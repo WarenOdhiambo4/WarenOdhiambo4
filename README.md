@@ -1,49 +1,48 @@
-𝘐'𝘮 𝗪𝗔𝗥𝗘𝗡  𝗢𝗗𝗛𝗜𝗔𝗠𝗕𝗢
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
-𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 @ 𝗞𝗶𝘀𝗶𝗶 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 | 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 𝗶𝗻 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴
+<p align="center">
+  <a href="https://linkedin.com–odhiambo–0b76b9370"><img src="https://shields.io" /></a>
+  <a href="mailto:kisumuwebiner@gmail.com"><img src="https://shields.io" /></a>
+  <a href="https://x.com"><img src="https://shields.io" /></a>
+  <a href="https://instagram.com"><img src="https://shields.io" /></a>
+</p>
 
-𝘐 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘦 𝘪𝘯 𝘣𝘳𝘪𝘥𝘨𝘪𝘯𝘨 𝘵𝘩𝘦 𝘨𝘢𝘱 𝘣𝘦𝘵𝘸𝘦𝘦𝘯 𝘳𝘢𝘸 𝘥𝘢𝘵𝘢 𝘢𝘯𝘥 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘷𝘢𝘭𝘶𝘦. 
+<h3 align="center">Computer Science Student @ Kisii University | Systems Architect in Training</h3>
 
-𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴:
-𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥 𝘌𝘛𝘓/𝘌𝘓𝘛 𝘣𝘢𝘤𝘬𝘣𝘰𝘯𝘦𝘴 𝘧𝘰𝘳 𝘳𝘦𝘵𝘢𝘪𝘭 𝘌𝘙𝘗𝘴.
-𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘍𝘰𝘤𝘶𝘴:
-  • 𝘔𝘪𝘵𝘪𝘨𝘢𝘵𝘪𝘯𝘨 𝘚𝘘𝘓 𝘐𝘯𝘫𝘦𝘤𝘵𝘪𝘰𝘯 
-  • 𝘉𝘶𝘧𝘧𝘦𝘳 𝘖𝘷𝘦𝘳𝘧𝘭𝘰𝘸 𝘪𝘯 𝘦𝘯𝘵𝘦𝘳𝘱𝘳𝘪𝘴𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦. (𝘉𝘰𝘶𝘯𝘥 𝘊𝘩𝘦𝘤𝘬𝘪𝘯𝘨, 𝘜𝘴𝘦 𝘰𝘧 𝘴𝘢𝘧𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴; 𝘗𝘺𝘵𝘩𝘰𝘯)
+<p align="center">
+  I specialize in bridging the gap between raw data and business value. 
+  Currently building <b>Automated ETL/ELT backbones</b> for retail ERPs.
+</p>
 
-𝗚𝗼𝗮𝗹:
-𝘗𝘳𝘰𝘷𝘪𝘥𝘪𝘯𝘨 𝘩𝘪𝘨𝘩-𝘪𝘯𝘵𝘦𝘨𝘳𝘪𝘵𝘺 𝘥𝘢𝘵𝘢 𝘪𝘯𝘴𝘪𝘨𝘩𝘵𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥 𝘰𝘳𝘤𝘩𝘦𝘴𝘵𝘳𝘢𝘵𝘪𝘰𝘯.
+---
 
-𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗔𝗿𝘀𝗲𝗻𝗮𝗹:
+### Security & Enterprise Focus
+- **Security Engineering:** Mitigating SQL Injection and Buffer Overflow via strict Bound Checking.
+- **Current Training:** Enrolled in **AI Safari Training** (One Month Intensive).
+- **Portfolio Site:** [View My Live Work](https://amplifyapp.com)
 
-| 𝘊𝘢𝘵𝘦𝘨𝘰𝘳𝘺 | 𝘛𝘰𝘰𝘭𝘴 |
+---
 
-𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 
-  • 𝘈𝘱𝘢𝘤𝘩𝘦 𝘈𝘪𝘳𝘧𝘭𝘰𝘸,
-  • 𝘗𝘰𝘴𝘵𝘨𝘳𝘦𝘚𝘘𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯 
-  • 𝘗𝘢𝘯𝘥𝘢𝘴/𝘚𝘘𝘓𝘈𝘭𝘤𝘩𝘦𝘮𝘺
-
- 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗜𝗻𝗳𝗿𝗮
-   • 𝘋𝘰𝘤𝘬𝘦𝘳,
-  •  𝘓𝘪𝘯𝘶𝘹 (𝘒𝘢𝘭𝘪)
-  •  𝘎𝘪𝘵 𝘍𝘭𝘰𝘸 
-
-
-𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
-
-  • 𝘌𝘙𝘗 𝘓𝘰𝘨𝘪𝘤, 
-  • 𝘍𝘪𝘯𝘢𝘯𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘪𝘰𝘯,
-  • 𝘚𝘦𝘤𝘶𝘳𝘦 𝘈𝘗𝘐 
-  • 𝘋𝘦𝘴𝘪𝘨𝘯
+### Technical Arsenal
 
 
-𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗘𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗱 𝗙𝗼𝗿 𝗔𝗜 𝗦𝗮𝗳𝗮𝗿𝗶 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 (𝗢𝗻𝗲 𝗠𝗼𝗻𝘁𝗵)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Engineering** | ![Airflow](https://shields.io) ![Postgres](https://shields.io) ![Python](https://shields.io) |
+| **DevOps & Infra** | ![Docker](https://shields.io) ![Linux](https://shields.io) ![Git](https://shields.io) |
+| **Business Systems** | ERP Logic, Financial Integration, Secure API Design |
 
-𝗦𝗢𝗖𝗜𝗔𝗟 𝗟𝗜𝗡𝗞𝗦 :
+---
 
-  1. 𝘭𝘪𝘯𝘬𝘦𝘥𝘪𝘯.𝘤𝘰𝘮/𝘪𝘯/𝘸𝘢𝘳𝘦𝘯–𝘰𝘥𝘩𝘪𝘢𝘮𝘣𝘰–0𝘣76𝘣9370
+### My Contribution Metrics
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
 
-  2. 𝘮𝘢𝘪𝘯.𝘥12𝘧𝘯30𝘴𝘳𝘲𝘳𝘤𝘨𝘨.𝘢𝘮𝘱𝘭𝘪𝘧𝘺𝘢𝘱𝘱.𝘤𝘰𝘮
+---
 
-  3. 𝘩𝘵𝘵𝘱𝘴://𝘹.𝘤𝘰𝘮/𝘖𝘥𝘩𝘪𝘢𝘮𝘣𝘰𝘞𝘢25458
-
-  4. 𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮.𝘤𝘰𝘮/𝘸𝘢𝘳𝘦𝘯_𝘰𝘥𝘩𝘪𝘢𝘮𝘣𝘰?𝘪𝘨𝘴𝘩=𝘔3𝘝𝘳𝘢2𝘙𝘬𝘣𝘻𝘔1𝘠3𝘭4
+<p align="center">
+  <b>Goal:</b> Providing high-integrity data insights through automated orchestration.
+</p>
